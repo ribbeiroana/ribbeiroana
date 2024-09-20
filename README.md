@@ -33,6 +33,6 @@
    <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
    <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div>
-
 <br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ribbeiroana&layout=donut)](https://github.com/ribbeiroana/github-readme-stats)
