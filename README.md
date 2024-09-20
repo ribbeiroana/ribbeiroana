@@ -7,6 +7,15 @@
 
 ![Ribbeiro GitHub stats](https://github-readme-stats.vercel.app/api?username=ribbeiroana&show_icons=true&theme=dark)
 
+<p align="left">
+  <a href="https://github.com/ribbeiroana?tab=followers">
+    <img alt="Me siga no GitHub" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/mahenrique94?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
+  <a href="https://github.com/ribbeiroana?tab=repositories&sort=stargazers">
+    <img alt="Estrelas no GitHub" title="Estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ribbeiroana?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  </a>
+</p>
+
 ## Technologies used
 
 <div style="display: inline_block">
