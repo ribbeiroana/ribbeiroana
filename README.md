@@ -7,6 +7,10 @@
 
 ![Ribbeiro GitHub stats](https://github-readme-stats.vercel.app/api?username=ribbeiroana&show_icons=true&theme=dark)
 
+
+<div align="left">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
 <p align="left">
   <img
     src="https://profile-counter.glitch.me/ribbeiroana/count.svg"
