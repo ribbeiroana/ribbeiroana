@@ -7,7 +7,7 @@
 
 ![Ribbeiro GitHub stats](https://github-readme-stats.vercel.app/api?username=ribbeiroana&show_icons=true&theme=dark)
 
-<p align="center">
+<p align="left"> Número de visitantes
   <img
     src="https://profile-counter.glitch.me/ribbeiroana/count.svg"
     alt="Número de visitantes no perfil"
