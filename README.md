@@ -62,10 +62,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ribbeiroana&layout=compact&theme=dark)](https://github.com/ribbeiroana/github-readme-stats)
 
-
-
-<br />
-<div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
