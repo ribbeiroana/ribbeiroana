@@ -11,7 +11,7 @@
 <div align="left">
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
-<p align="left".
+<p align="left">
   <img
     src="https://profile-counter.glitch.me/ribbeiroana/count.svg"
     alt="Número de visitantes no perfil"
