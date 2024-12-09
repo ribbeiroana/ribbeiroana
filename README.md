@@ -30,6 +30,8 @@
 }
 
 ```
+## Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ribbeiroana&layout=compact&theme=dark)](https://github.com/ribbeiroana/github-readme-stats)
 
 ## Skills
 ![JavaScript](https://img.icons8.com/?size=100&id=108784&format=png&color=000000)
@@ -52,9 +54,5 @@
 ![Canva](https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000)
 ![Gimp](https://img.icons8.com/?size=100&id=b4Y5rs3iBGqE&format=png&color=000000)
 
-<br>
-
+## Contact
 [![LINKEDIN](https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000)](https://br.linkedin.com/in/ribbeiroana)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ribbeiroana&layout=compact&theme=dark)](https://github.com/ribbeiroana/github-readme-stats)
-
