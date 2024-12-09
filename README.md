@@ -1,53 +1,60 @@
 ## Hi, I'm Ana Ribeiro <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
+```json
+{
+    "roles": [
+        {
+            "title": "Desenvolvedora Web"
+        }
+    ],
+    "formations": [
+        {
+            "name": "Sistemas de Informação",
+            "start": "Março de 2023",
+            "end": "Dezembro de 2026"
+        }
+    ],
+    "mainSkills": {
+        "hardSkills": {
+            "frontEnd": ["JavaScript", "HTML", "ReactJS", "TypeScript", "CSS", "SASS", "Tailwind"],
+            "backEnd": ["NodeJS", "Express", "Sequelize", "Prisma", "MongoDB", "MySQL"],
+            "toolAndOthers": ["Git", "GitHub", "Husky", "Vite", "Postman"]
+        },
+        "softSkills": [
+            "Aprendizado rápido e contínuo",
+            "Adaptabilidade a novos desafios",
+            "Colaboração eficiente em equipe",
+            "Resolução de problemas"
+        ]
+    },
+}
 
-
-[![WHATSAPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5538998721992)
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/ribbeiroana)
+```
 
 ## Skills
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Boostrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.icons8.com/?size=100&id=108784&format=png&color=000000)
+![Node JS](https://img.icons8.com/?size=100&id=54087&format=png&color=000000)
+![Java](https://img.icons8.com/?size=100&id=13679&format=png&color=000000)
+![TypeScript](https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000)
+![Html](https://img.icons8.com/?size=100&id=20909&format=png&color=000000)
+![CSS](https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000)
+![React](https://img.icons8.com/?size=100&id=NfbyHexzVEDk&format=png&color=000000)
+![Boostrap](https://img.icons8.com/?size=100&id=PndQWK6M1Hjo&format=png&color=000000)
+![Eslint](https://img.icons8.com/?size=100&id=RBnCyho7WRn7&format=png&color=000000)
+![Postman](https://img.icons8.com/?size=100&id=IoYmHUxgvrFB&format=png&color=000000)
+![Vite](https://img.icons8.com/?size=100&id=dJjTWMogzFzg&format=png&color=000000)
+![Figma](https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000)
+![Tailwind](https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000)
+![Prisma](https://img.icons8.com/?size=100&id=aqb9SdV9P8oC&format=png&color=000000)
+![MYSQL](https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000)
+![MongoDB](https://img.icons8.com/?size=100&id=8rKdRqZFLurS&format=png&color=000000)
+![GIT](https://img.icons8.com/?size=100&id=20906&format=png&color=000000)
+![Canva](https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000)
+![Gimp](https://img.icons8.com/?size=100&id=b4Y5rs3iBGqE&format=png&color=000000)
 
-
-### Code versioning
-
-<div style="display: inline_block; ">
-  <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
- </div>
-
- ### DataBase
-   <div style="display: inline_block; ">
-   <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-   <img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-   </div>
-   
- ### ORM
- 
-<div style="display: inline_block; ">
- <img align="center" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"/>
- <img align="center" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
-</div>
-
- ### Design
- 
-<div style="display: inline_block; ">
- <img align="center" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
- <img align="center" src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white"/>
- <img align="center" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
-</div>
 <br>
+
+[![LINKEDIN](https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000)](https://br.linkedin.com/in/ribbeiroana)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ribbeiroana&layout=compact&theme=dark)](https://github.com/ribbeiroana/github-readme-stats)
 
