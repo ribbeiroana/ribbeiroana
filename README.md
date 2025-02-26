@@ -32,7 +32,7 @@
 ```
 
 <div align="left">
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribbeiroana&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=898989" />
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribbeiroana&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0000" />
   
  </div>
 
