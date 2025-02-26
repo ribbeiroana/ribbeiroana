@@ -1,5 +1,12 @@
 ## Hi, I'm Ana Ribeiro <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
+
+
+
+
+
+
+
 ```json
 {
     "roles": [
@@ -30,9 +37,12 @@
 }
 
 ```
-
+  
 <div align="left">
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribbeiroana&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0000" />
+
+ <img  width="195px" src="https://media1.tenor.com/m/A15H8E1VUh8AAAAC/github-cat.gif" />
+    
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribbeiroana&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=1C1C1C" />
   
  </div>
 
