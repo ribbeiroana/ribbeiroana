@@ -10,15 +10,16 @@
 - 📚 Sempre explorando novas tecnologias e boas práticas
   
 
-<br>
-<div align="left">
-   <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribbeiroana&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=1C1C1C" />
-</div>
+
 
 <br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,mysql,mongodb,js,nodejs,ts,react,postman" />
+    <img src="https://skillicons.dev/icons?i=git,mysql,mongodb,js,nodejs,ts,react,postman,linux" />
   </a>
 </p>
 
+<br>
+<p align="left">
+   <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribbeiroana&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=1C1C1C" />
+</p>
