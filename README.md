@@ -45,5 +45,5 @@
 
 ## Contact
 <a href="https://br.linkedin.com/in/ribbeiroana">
-    <img src="">
+    <img src="https://skillicons.dev/icons?i=linkedin">
 </a>
