@@ -33,7 +33,6 @@
 ```
   
 <div align="left">
-   <img  width="195px" src="https://media2.giphy.com/media/9f8mk4P3X2Nvch1z2o/giphy.gif" />
    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribbeiroana&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=1C1C1C" />
 </div>
 
