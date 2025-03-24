@@ -7,7 +7,7 @@
 
 - 👩‍💻 Desenvolvedora de Software
 - 🎓 Graduando Sistemas de Informação
-- 📚 Sempre explorando novas tecnologias e boas práticas
+- 📚 Explorando novas tecnologias e boas práticas
   
 
 
