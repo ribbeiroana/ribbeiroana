@@ -5,9 +5,9 @@
 
 
 
-- 👩‍💻 Desenvolvedora de Software
-- 🎓 Graduando Sistemas de Informação
-- 📚 Explorando novas tecnologias e boas práticas
+- Desenvolvedora de Software
+- Graduando Sistemas de Informação
+- Explorando novas tecnologias e boas práticas
   
 
 
