@@ -6,7 +6,7 @@
 
 
 - Desenvolvedora de Software
-- Graduando Sistemas de Informação
+- Graduanda Sistemas de Informação
 - Explorando novas tecnologias e boas práticas
   
 
