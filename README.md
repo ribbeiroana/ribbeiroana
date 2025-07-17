@@ -1,7 +1,7 @@
 ## Hi! Welcome to my github!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white&link=https://br.linkedin.com/in/ribbeiroana)](https://br.linkedin.com/in/ribbeiroana)
-[![Gmail Badge](https://img.shields.io/badge/-anapribbeiro@gmail.com-000000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@fernandakipper.com)](mailto:anapribbeiro@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-martinnrs.ana@gmail.com-000000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:martinnrs.ana@gmail.com)](mailto:martinnrs.ana@gmail.com)
 
 
 
