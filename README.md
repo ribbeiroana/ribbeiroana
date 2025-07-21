@@ -1,6 +1,6 @@
 ## Hi! Welcome to my github!
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white&link=https://br.linkedin.com/in/ribbeiroana)](https://br.linkedin.com/in/ribbeiroana)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white&link=https://br.linkedin.com/in/anamartinsr)](https://br.linkedin.com/in/anamartinsr)
 [![Gmail Badge](https://img.shields.io/badge/-martinnrs.ana@gmail.com-000000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:martinnrs.ana@gmail.com)](mailto:martinnrs.ana@gmail.com)
 
 
