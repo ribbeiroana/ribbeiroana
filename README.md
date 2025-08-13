@@ -7,14 +7,14 @@
  Graduanda em **Sistemas de Informação**  
  Focada em **APIs REST, integrações, arquitetura limpa e performance**  
 
----
+
 
 ##  Sobre mim
 Sou desenvolvedora apaixonada por criar soluções eficientes e escaláveis, sempre aplicando **boas práticas de código** e **arquitetura bem estruturada**.  
 No **backend**, atuo com **Node.js, TypeScript, MySQL e MongoDB** para construir APIs robustas.  
 No **frontend**, trabalho com **React e TailwindCSS** para entregar interfaces modernas e responsivas.  
 
----
+
 
 ##  Tecnologias
 
@@ -24,7 +24,6 @@ No **frontend**, trabalho com **React e TailwindCSS** para entregar interfaces m
   </a>
 </p>
 
----
 
 ##  Estatísticas do GitHub
 
@@ -32,7 +31,6 @@ No **frontend**, trabalho com **React e TailwindCSS** para entregar interfaces m
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anamartinsr&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 
----
 
 ## 📬 Contato
 
