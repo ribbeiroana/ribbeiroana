@@ -20,7 +20,7 @@ No **frontend**, trabalho com **React e TailwindCSS** para entregar interfaces m
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,tailwind,mysql,postgresql,mongodb,git,linux,postman" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,tailwind,mysql,postgresql,mongodb,nginx,git,linux,postman" />
   </a>
 </p>
 
