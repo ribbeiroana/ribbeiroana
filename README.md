@@ -34,5 +34,5 @@ No dia a dia, trabalho tanto no **desenho da arquitetura e das integrações** q
 ##  Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anamartinsr&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anamartinsr&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </p>
