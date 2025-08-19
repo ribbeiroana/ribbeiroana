@@ -13,15 +13,6 @@
  Apaixonada por criar soluções escaláveis, conectando sistemas de forma inteligente, com foco em organização, eficiência e alto desempenho.
 
 
-
-##  Sobre mim
-Atuo no desenvolvimento de software construindo soluções que vão desde a **camada de backend**, com foco em aplicações estáveis, escaláveis e seguras, até o **frontend**, entregando interfaces fluidas e responsivas.  
-Tenho experiência em **orquestração e monitoramento de aplicações em produção**, administração de servidores e otimização de desempenho em bancos de dados, sempre buscando eficiência e confiabilidade.  
-No dia a dia, trabalho tanto no **desenho da arquitetura e das integrações** quanto na **experiência do usuário final**, conciliando robustez técnica com clareza e usabilidade.
-
-
-
-
 ##  Tecnologias
 
 <p align="center">
